@@ -1,0 +1,17 @@
+.todo-input{
+
+    height: 40px;
+    width: 330px;
+    border-width: 2px;
+    border-color: black;
+}
+.button{
+    height: 40px;
+    width: 70px;
+    background-color: black;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    border-width: 2px;
+    border-color: white;
+}
